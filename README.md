@@ -1,4 +1,4 @@
-# we_chat
+# WeChat
 
 A new Flutter project.
 
